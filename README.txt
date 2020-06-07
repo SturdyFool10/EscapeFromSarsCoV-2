@@ -9,7 +9,9 @@ files to upload to GitHub (We exceeded the limit), the rest of the code files an
 The first link also includes an executable file of the game. It can run on any Windows device. It's buried in there, so here is a direct
 link: https://drive.google.com/file/d/1Tl57cnLFkOlRoYJb1xBPkOQGZh7UGihH/view?usp=sharing
 
-We created this game as a way to educate people about the Novel Coronavirus pandemic in a way that is engaging and fun.  Players explore a 3D world where they can either fight a disease or try to spread it.  Along the way, they collect information about virus transmission, symptoms, and prevention.
+We created this game as a way to educate people about the Novel Coronavirus pandemic in a way that is engaging and fun.  Players explore a
+3D world where they can either fight a disease or try to spread it.  Along the way, they collect information about virus transmission,
+symptoms, and prevention.
 
 Implementation:
 -Models created in Blender
